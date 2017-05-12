@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LearnModularization.iml" filepath="$PROJECT_DIR$/LearnModularization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com-zl-auth/com-zl-auth.iml" filepath="$PROJECT_DIR$/com-zl-auth/com-zl-auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com-zl-behaviorstat/com-zl-behaviorstat.iml" filepath="$PROJECT_DIR$/com-zl-behaviorstat/com-zl-behaviorstat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com-zl-ciper/com-zl-ciper.iml" filepath="$PROJECT_DIR$/com-zl-ciper/com-zl-ciper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com-zl-financing/com-zl-financing.iml" filepath="$PROJECT_DIR$/com-zl-financing/com-zl-financing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com-zl-json/com-zl-json.iml" filepath="$PROJECT_DIR$/com-zl-json/com-zl-json.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com-zl-network/com-zl-network.iml" filepath="$PROJECT_DIR$/com-zl-network/com-zl-network.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com-zl-repay/com-zl-repay.iml" filepath="$PROJECT_DIR$/com-zl-repay/com-zl-repay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com-zl-user/com-zl-user.iml" filepath="$PROJECT_DIR$/com-zl-user/com-zl-user.iml" />
+    </modules>
+  </component>
+</project>

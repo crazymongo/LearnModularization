@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/com-zl-auth" />
+            <option value="$PROJECT_DIR$/com-zl-behaviorstat" />
+            <option value="$PROJECT_DIR$/com-zl-ciper" />
+            <option value="$PROJECT_DIR$/com-zl-financing" />
+            <option value="$PROJECT_DIR$/com-zl-json" />
+            <option value="$PROJECT_DIR$/com-zl-network" />
+            <option value="$PROJECT_DIR$/com-zl-repay" />
+            <option value="$PROJECT_DIR$/com-zl-user" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
